@@ -7,6 +7,10 @@
     <title>Multiplicação App</title>
     <script src="jquery-3.6.3.js"></script>
     <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://giovanep4mg.github.io/jogo_d_Multiplicacao_HTML_JS_CSS/"
+      rel="github"
+    />
   </head>
   <body>
     <form class="form" id="form">
